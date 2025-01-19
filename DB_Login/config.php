@@ -4,7 +4,7 @@
 
 $host = "127.0.0.1";
 $user = "root";
-$password = "Root$1982";
+$password = "insert psw";
 $database = "tutorial_mysql";
 
 $connessione = new mysqli($host, $user, $password, $database);
